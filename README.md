@@ -1,6 +1,14 @@
 # 2-stage-arcade-stick
 a method of having 2 stages of movement speed for smash bros in a traditional fight stick controller format
 
+advantages of this project are:
+
+1:the ability to use an arcade stick, a familiar controller method known for decades in the fighting game community for smash bros and other platform fighting games that rely on analog stick's for movement.  
+
+2:improved ergonomics over gamecube controllers while allowing the barrier to entry to be lower than all button controllers such as the Frame1, Rana Digital, smash box and other all button controllers already in use in the competitive smash scene. 
+ 
+3: the ability to input tilt and smash attacks easily without modifier buttons 
+
 It all began with a silly idea.
 
 I had previously purchased a cheap fight stick off amazon called the PXN-0082. I had bought it to play some old school 2d fighting games and some classic arcade games that had been released for the nintendo switch but after a few times using it the novelty had worn off and I put it up on a shelf.
