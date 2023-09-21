@@ -56,10 +56,11 @@ I used 5 minute epoxy to "glue" the outside switch to the inside switch. I also 
 
 I then began breadboard testing. I put the stick into my test enclosure and began trying the stick on my nintendo switch. 
 
-https://photos.app.goo.gl/1Ei1XSQQ6XDE9ebN6
+(smash ultimate movement test video) https://photos.app.goo.gl/1Ei1XSQQ6XDE9ebN6
+
 I initially thought that I had done something wrong. It seemed that walk was working perfectly but when the second switch was activated i just walked faster instead of going to full run.
 
-https://photos.app.goo.gl/YKhRPbahzpo25nkXA
+(switch menu analog stick test menu video) https://photos.app.goo.gl/YKhRPbahzpo25nkXA
 
 So I stepped back and grabbed a regular pro controller and did some movement testing with a stock nintendo controller and I discovered that the analog stick behaved the same way! If you tilt the stick slightly you get walk and if you tilt all the way you get faster walk but you cannot run until you let the stick return to center and then push the stick fully all the way to one direction. I HAD SUCCESSFULLY REPLICATED ANALOG MOVEMENT WITH DIGITAL SWITCHES!
 
