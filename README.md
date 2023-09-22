@@ -9,6 +9,8 @@ advantages of this project are:
  
 3: the ability to input tilt and smash attacks easily without modifier buttons 
 
+4: no SOCD cleaning is needed since its impossible to push 2 opposite directions at the same time on an arcade stick. This will make controllers using this technology to be fully tournament legal.
+
 It all began with a silly idea.
 
 I had previously purchased a cheap fight stick off amazon called the PXN-0082. I had bought it to play some old school 2d fighting games and some classic arcade games that had been released for the nintendo switch but after a few times using it the novelty had worn off and I put it up on a shelf.
