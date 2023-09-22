@@ -37,7 +37,7 @@ For simplicity I used the second method. I had already been testing using an ana
 
 I purchased a knock off version of a Sanwa JLF arcade stick off amazon. (EG starts arcade stick https://www.amazon.com/dp/B01N0DO631?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-This stick is identical to a sanwa JLF which is an industry standard stick and felt like a good candidate to go with. I wanted to know how the microswitches worked so I popped off the lid and discovered that there is a large amount of travel that occurs after the switch is activated. This gave me the idea that 2 switches could be stacked together and with the right spacer allow you to gently press the inner switch for run and then push furether to activate the outer switch for run.
+This stick is identical to a sanwa JLF which is an industry standard stick and felt like a good candidate to go with. I wanted to know how the microswitches worked so I popped off the lid and discovered that there is a large amount of travel that occurs after the switch is activated. This gave me the idea that 2 switches could be stacked together and with the right spacer allow you to gently press the inner switch for walk and then push furether to activate the outer switch for run.
 
 ![image](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/e1c3a673-ad96-481f-a882-79c3c246901c)
 
@@ -62,13 +62,13 @@ I pad hacked a gamecube controller pcb I bought off ebay (https://www.ebay.com/i
 ![IMG_20230909_203902537](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/c4524d67-09e8-4a17-9df3-f2dfb519c41d)
 ![IMG_20230910_113507325](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/323d5d5b-465c-442f-bf2e-cbc24ae565ed)
 
-I used 5 minute epoxy to "glue" the outside switch to the inside switch. I also realized that since the inner switches were soldered to the pcb that they came on I would need to fille the pcb traces for ground because they do not all have common ground in this scenario. Each direction has seperate ground pins as we are replicating an analog signal.
+I used 5 minute epoxy to "glue" the outside switch to the inside switch. I also realized that since the inner switches were soldered to the pcb that they came on I would need to file the pcb traces for ground to isolate the ground pins from each other because they do not all have common ground in this scenario. Each direction has seperate ground pins as we are replicating an analog signal.
 
 I then began breadboard testing. I put the stick into my test enclosure and began trying the stick on my nintendo switch. 
 
 (smash ultimate movement test video) https://photos.app.goo.gl/1Ei1XSQQ6XDE9ebN6
 
-I initially thought that I had done something wrong. It seemed that walk was working perfectly but when the second switch was activated i just walked faster instead of going to full run.
+I initially thought that I had done something wrong. It seemed that walk was working perfectly but when the second switch was activated i just walked faster instead of going to full run. The values seemed to be testing correctly in the stick testing menu on the switch so i was confused.
 
 (switch menu analog stick test menu video) https://photos.app.goo.gl/YKhRPbahzpo25nkXA
 
@@ -78,4 +78,4 @@ I did encounter issues however. Since I had only made a second stage for the X a
 
 That is currently where this project resides. I am waiting on more microswitches to be delievered to modify the Y axis in the same way as the X axis and will be posting all of my testing results here.
 
-Thank you for your time if you read this and if this inspired you to try this for yourself please let me know! I know of at least one other person that is making their own spin on the concept using different parts and I am so excited to see what they come up with.
+Thank you for your time if you read this, and if this inspired you to try this for yourself please let me know! I know of at least one other person that is making their own spin on the concept using different parts and I am so excited to see what they come up with.
