@@ -79,3 +79,20 @@ I did encounter issues however. Since I had only made a second stage for the X a
 That is currently where this project resides. I am waiting on more microswitches to be delievered to modify the Y axis in the same way as the X axis and will be posting all of my testing results here.
 
 Thank you for your time if you read this, and if this inspired you to try this for yourself please let me know! I know of at least one other person that is making their own spin on the concept using different parts and I am so excited to see what they come up with.
+
+
+UPDATE: 
+
+In my testing with only 2 stage switches for the X axis I was not getting 45 degree diagonals. This told me that I had to do the same modification to the Y axis switches. I ordered more microswitches (went with standard sanwa omron switches for the jlf) and modded the Y axis to add the second stage switches.
+
+![IMG_20231005_202342746](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/dfe9b1aa-7a5c-42ce-a35d-289a2c3d1ae7)
+![IMG_20231005_202847901](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/4ca1f13f-f12a-4bd1-8dda-844e09929d76)
+
+
+I then got everything wired onto the gcc pcb i pad hacked and put it into my stickwich enclosure.
+
+Initial gameplay testing is actually very good. tilts and smash attacks are very easy to do on purpose and movement overall feels excellent.
+
+I do want to try this mod with lighter actuation force switches for one or possibly both stages of movement. It does feel a bit stiff when pressing both switches for a direction. I will try starting with modifying the second stages with something like a Suzo Happ E-Switch 50g https://focusattack.com/e-switch-50g-187-microswitch/
+
+I am also working on a completely different design theory using mouseclick switches but that is another project for another day when i finally get a 3d printer.
