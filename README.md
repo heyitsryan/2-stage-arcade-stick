@@ -93,6 +93,11 @@ I then got everything wired onto the gcc pcb i pad hacked and put it into my sti
 
 Initial gameplay testing is actually very good. tilts and smash attacks are very easy to do on purpose and movement overall feels excellent.
 
+(keep in mind im not good at smash. lvl 9 cpu tho)
+https://www.youtube.com/watch?v=vNsLvrdNnqo
+
+I'm getting a few too many unintentional smash attacks but im going to try different stick sensitivity settings in the smash ultimate controls menu.
+
 I do want to try this mod with lighter actuation force switches for one or possibly both stages of movement. It does feel a bit stiff when pressing both switches for a direction. I will try starting with modifying the second stages with something like a Suzo Happ E-Switch 50g https://focusattack.com/e-switch-50g-187-microswitch/
 
 I am also working on a completely different design theory using mouseclick switches but that is another project for another day when i finally get a 3d printer.
