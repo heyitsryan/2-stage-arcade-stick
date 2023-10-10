@@ -93,8 +93,24 @@ I then got everything wired onto the gcc pcb i pad hacked and put it into my sti
 
 Initial gameplay testing is actually very good. tilts and smash attacks are very easy to do on purpose and movement overall feels excellent.
 
+Here is some early test gameplay footage.
+
 (keep in mind im not good at smash. lvl 9 cpu tho)
-https://www.youtube.com/watch?v=vNsLvrdNnqo
+
+
+<div align="left">
+      <a href="[https://youtu.be/vNsLvrdNnqo]">
+         <img src="https://img.youtube.com/vi/vNsLvrdNnqo/0.jpg" style="width:50%;">
+      </a>
+</div>
+
+This one was some online quicklplay. 
+
+<div align="left">
+      <a href="[https://youtu.be/GVRmopZYhdY]">
+         <img src="https://img.youtube.com/vi/GVRmopZYhdY/0.jpg" style="width:50%;">
+      </a>
+</div>
 
 I'm getting a few too many unintentional smash attacks but im going to try different stick sensitivity settings in the smash ultimate controls menu.
 
