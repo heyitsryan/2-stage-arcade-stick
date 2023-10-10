@@ -90,6 +90,15 @@ In my testing with only 2 stage switches for the X axis I was not getting 45 deg
 
 
 I then got everything wired onto the gcc pcb i pad hacked and put it into my stickwich enclosure.
+![IMG_20231010_141924300](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/995f0d30-1c6f-4d44-9e7f-753d37e779d7)
+
+I then modified my digital to analog converter board to match the resistor settings for the second stage switches on the Y axis.
+
+![IMG_20231010_141931588](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/3e42228d-c342-41d2-b52f-a82b3585cbc9)
+
+After getting everything assembled it became clear that I would need more throw distance to actuate both switches consistently. the gates for sanwa jlf sticks have a center section that is removable to allow for that part to be replaced or changed to a different gate shape. I took that section out and it was immediately better. This tells me that perhaps Korean levers would be a better platform for this stick idea overall but for now this is working great.
+
+![IMG_20231010_141952043](https://github.com/heyitsryan/2-stage-arcade-stick/assets/2439341/5d3adcc8-0103-4b3c-8f65-2d64fb48524a)
 
 Initial gameplay testing is actually very good. tilts and smash attacks are very easy to do on purpose and movement overall feels excellent.
 
