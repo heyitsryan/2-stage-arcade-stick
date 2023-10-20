@@ -117,6 +117,10 @@ I'm getting a few too many unintentional smash attacks but im going to try diffe
 
 (UPDATE) I changed the stick sensitivity to low in Smash ultimate and it is much better in this regard.
 
+Got some test footage with a camera to show what your hands do during gameplay. 
+
+https://youtu.be/Wwtl2kOoUgM
+
 I do want to try this mod with lighter actuation force switches for one or possibly both stages of movement. It does feel a bit stiff when pressing both switches for a direction. I will try starting with modifying the second stages with something like a Suzo Happ E-Switch 50g https://focusattack.com/e-switch-50g-187-microswitch/
 
 I am also working on a completely different design theory using mouseclick switches but that is another project for another day when i finally get a 3d printer.
